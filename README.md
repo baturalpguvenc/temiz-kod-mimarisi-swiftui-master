@@ -1,6 +1,6 @@
 # temiz-kod-mimarisi-swiftui-master
 
- Ana Amaç: Uygulamanın temel amacı, restcountries.com REST API kullanarak ülkelerin listesini ve bu ülkeler hakkında detayları göstermektir.
+ Ana Amaç: Uygulamanın temel amacı, restcountries.com REST API kullanarak ülkelerin listesini ve bu ülkeler hakkında detayları göstermektir. 🏳️ 🏴 🏴‍☠️
 
 Mimari Yapı: Bu proje, "Clean Architecture" prensiplerini takip eder. Bu prensipler, uygulamanın farklı katmanları arasında iyi bir ayrım sağlar ve kodun daha okunaklı ve sürdürülebilir olmasına yardımcı olur.
 
